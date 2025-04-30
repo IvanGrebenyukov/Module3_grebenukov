@@ -1,0 +1,396 @@
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.exe
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.deps.json
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.runtimeconfig.json
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.pdb
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov_MarkupCompile.cache
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov_MarkupCompile.lref
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.g.resources
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.AssemblyInfoInputs.cache
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.AssemblyInfo.cs
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.csproj.CoreCompileInputs.cache
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.sourcelink.json
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\refint\WpfExamGrebenukov.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.pdb
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.genruntimeconfig.cache
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\ref\WpfExamGrebenukov.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.csproj.AssemblyReference.cache
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\App.baml
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamG.6BB00098.Up2Date
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\Views\PartnerEditWindow.g.cs
+C:\Users\st310-04\Desktop\Гребенюков_день2\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\Views\PartnerEditWindow.baml
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.exe
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.deps.json
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.runtimeconfig.json
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.pdb
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.csproj.AssemblyReference.cache
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\Views\PartnerEditWindow.g.cs
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\App.g.cs
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov_MarkupCompile.cache
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov_MarkupCompile.lref
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\App.baml
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\Views\PartnerEditWindow.baml
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.g.resources
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.GeneratedMSBuildEditorConfig.editorconfig
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.AssemblyInfoInputs.cache
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.AssemblyInfo.cs
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.csproj.CoreCompileInputs.cache
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamG.6BB00098.Up2Date
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\refint\WpfExamGrebenukov.dll
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.pdb
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.genruntimeconfig.cache
+D:\Гребенюков_день2\новое\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\ref\WpfExamGrebenukov.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.exe
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.deps.json
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.runtimeconfig.json
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\WpfExamGrebenukov.pdb
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.csproj.AssemblyReference.cache
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov_MarkupCompile.cache
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov_MarkupCompile.lref
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\App.baml
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.g.resources
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.AssemblyInfoInputs.cache
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.AssemblyInfo.cs
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.csproj.CoreCompileInputs.cache
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamG.6BB00098.Up2Date
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\refint\WpfExamGrebenukov.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.pdb
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\WpfExamGrebenukov.genruntimeconfig.cache
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\ref\WpfExamGrebenukov.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\Views\AddEditPartnerWindow.g.cs
+C:\Users\ivang\OneDrive\Рабочий стол\Home_Practice_C#\wpfprojects\WpfExamGrebenukov\WpfExamGrebenukov\obj\Debug\net8.0-windows\Views\AddEditPartnerWindow.baml

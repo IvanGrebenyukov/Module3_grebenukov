@@ -1,0 +1,92 @@
+﻿<Window x:Class="WpfExamGrebenukov.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfExamGrebenukov"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Icon="../Resources/icon.ico"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        FontFamily="Segoe UI"
+        Loaded="Window_Loaded">
+    <Window.Resources>
+        <Style TargetType="Border" x:Key="PartnerBorder">
+            <Setter Property="BorderBrush" Value="#67BA80"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="CornerRadius" Value="5"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="15"/>
+            <Setter Property="Background" Value="#F4E8D3"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Background="White">
+            <Image Source="../Resources/logo.png" Width="200" Margin="10"/>
+            <Button Content="Добавить партнера" 
+                    Command="{Binding AddPartnerCommand}"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    Background="#67BA80"
+                    Margin="10 0 0 0"/>
+        </StackPanel>
+
+        <!-- Partners List -->
+       <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <ItemsControl x:Name="PartnersItemsControl">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border Style="{StaticResource PartnerBorder}">
+                            <Grid Width="1000">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+
+                                <!-- Left Part -->
+                                <StackPanel Grid.Column="0">
+                                    <TextBlock FontWeight="Bold">
+                                        <Run Text="{Binding PartnerTypes.Title}"/> | 
+                                        <Run Text="{Binding Title}"/>
+                                    </TextBlock>
+                                    <TextBlock Text="{Binding PhonePartner}" Margin="0 10 0 0"/>
+                                    <TextBlock Text="{Binding Director}"/>
+                                    <TextBlock Margin="0 10 0 0">
+                                        <Run Text="Рейтинг:"/>
+                                        <Run Text="{Binding Rating}" FontWeight="Bold"/>
+                                    </TextBlock>
+                                </StackPanel>
+
+                                <!-- Discount (Top Right) -->
+                                <TextBlock Grid.Column="1" 
+                                           Text="{Binding Discount, StringFormat={}{0}%}" 
+                                           FontSize="20"
+                                           FontWeight="Bold"
+                                           VerticalAlignment="Top"
+                                           HorizontalAlignment="Right"
+                                           Foreground="#67BA80"/>
+                                
+                                <!-- Edit Button -->
+                                <Button Grid.Column="1"
+                                        Content="Редактировать"
+                                        Command="{Binding DataContext.EditPartnerCommand, RelativeSource={RelativeSource AncestorType=Window}}"
+                                        CommandParameter="{Binding}"
+                                        Style="{StaticResource MaterialDesignFlatButton}"
+                                        VerticalAlignment="Bottom"
+                                        HorizontalAlignment="Right"/>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+    </Grid>
+
+
+</Window>
