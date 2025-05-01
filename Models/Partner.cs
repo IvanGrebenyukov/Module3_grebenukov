@@ -24,8 +24,7 @@ public partial class Partner
 
     public int Rating { get; set; }
 
-    [NotMapped]
-    public int Discount { get; set; }
+    
 
     public virtual ICollection<PartnerProduct> PartnerProducts { get; set; } = new List<PartnerProduct>();
 

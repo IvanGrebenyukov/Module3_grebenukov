@@ -8,78 +8,73 @@
         Icon="../Resources/icon.ico"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800"
-        FontFamily="Segoe UI"
-        Loaded="Window_Loaded">
+        FontFamily="Segoe UI">
     <Window.Resources>
         <Style TargetType="Border" x:Key="PartnerBorder">
             <Setter Property="BorderBrush" Value="#67BA80"/>
             <Setter Property="BorderThickness" Value="1"/>
-            <Setter Property="CornerRadius" Value="5"/>
+            <!--<Setter Property="CornerRadius" Value="5.0"/>-->
             <Setter Property="Margin" Value="10"/>
             <Setter Property="Padding" Value="15"/>
             <Setter Property="Background" Value="#F4E8D3"/>
         </Style>
     </Window.Resources>
-
+    
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-
-        <!-- Header -->
-        <StackPanel Grid.Row="0" Orientation="Horizontal" Background="White">
+        
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Background="White" HorizontalAlignment="Left">
             <Image Source="../Resources/logo.png" Width="200" Margin="10"/>
-            <Button Content="Добавить партнера" 
-                    Command="{Binding AddPartnerCommand}"
-                    Style="{StaticResource MaterialDesignRaisedButton}"
+            <Button Width="200" Height="50"
+                    Content="Добавить партнера"
+                    Margin="10, 10, 0, 10"
+                    HorizontalAlignment="Left"
                     Background="#67BA80"
-                    Margin="10 0 0 0"/>
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    Click="AddButton_Click"/>
         </StackPanel>
-
-        <!-- Partners List -->
-       <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
-            <ItemsControl x:Name="PartnersItemsControl">
+        
+       
+        
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1">
+            <ItemsControl ItemsSource="{Binding Partners}" Margin="10">
                 <ItemsControl.ItemTemplate>
                     <DataTemplate>
                         <Border Style="{StaticResource PartnerBorder}">
-                            <Grid Width="1000">
+                            <Grid>
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="*"/>
                                     <ColumnDefinition Width="Auto"/>
                                 </Grid.ColumnDefinitions>
-
-                                <!-- Left Part -->
-                                <StackPanel Grid.Column="0">
+                                
+                                <StackPanel MouseDown="PartnerList_MouseDown" Grid.Column="0">
                                     <TextBlock FontWeight="Bold">
-                                        <Run Text="{Binding PartnerTypes.Title}"/> | 
+                                        <Run Text="{Binding PartnerTypes.Title}"/> |
                                         <Run Text="{Binding Title}"/>
                                     </TextBlock>
-                                    <TextBlock Text="{Binding PhonePartner}" Margin="0 10 0 0"/>
+                                    <TextBlock Text="{Binding PhonePartner}"/>
                                     <TextBlock Text="{Binding Director}"/>
-                                    <TextBlock Margin="0 10 0 0">
-                                        <Run Text="Рейтинг:"/>
-                                        <Run Text="{Binding Rating}" FontWeight="Bold"/>
+                                    <TextBlock>
+                                        <Run Text="Рейтинг: " />
+                                        <Run Text="{Binding Rating}"/>
                                     </TextBlock>
+                                    <Button Content="Редактировать"
+                                            HorizontalAlignment="Right"
+                                            VerticalAlignment="Center"
+                                            Margin="5"
+                                            Background="#67BA80"
+                                            Style="{StaticResource MaterialDesignRaisedButton}"
+                                            Click="EditButton_Click"/>
                                 </StackPanel>
-
-                                <!-- Discount (Top Right) -->
-                                <TextBlock Grid.Column="1" 
-                                           Text="{Binding Discount, StringFormat={}{0}%}" 
-                                           FontSize="20"
-                                           FontWeight="Bold"
-                                           VerticalAlignment="Top"
-                                           HorizontalAlignment="Right"
-                                           Foreground="#67BA80"/>
                                 
-                                <!-- Edit Button -->
-                                <Button Grid.Column="1"
-                                        Content="Редактировать"
-                                        Command="{Binding DataContext.EditPartnerCommand, RelativeSource={RelativeSource AncestorType=Window}}"
-                                        CommandParameter="{Binding}"
-                                        Style="{StaticResource MaterialDesignFlatButton}"
-                                        VerticalAlignment="Bottom"
-                                        HorizontalAlignment="Right"/>
+                                <TextBlock Grid.Column="1"
+                                           Text="{Binding Discount, StringFormat={}{0}%}"
+                                           FontSize="24"
+                                           VerticalAlignment="Center"
+                                           Margin="20, 0, 10, 0"/>
                             </Grid>
                         </Border>
                     </DataTemplate>
@@ -87,6 +82,4 @@
             </ItemsControl>
         </ScrollViewer>
     </Grid>
-
-
 </Window>

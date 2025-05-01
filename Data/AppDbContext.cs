@@ -54,7 +54,7 @@ public partial class AppDbContext : DbContext
             entity.HasKey(e => e.PartnerId).HasName("PK_Product_type_import");
 
             entity.Property(e => e.PartnerId)
-                .ValueGeneratedNever()
+                .UseIdentityColumn()
                 .HasColumnName("partner_id");
             entity.Property(e => e.AddressPartner)
                 .HasMaxLength(100)

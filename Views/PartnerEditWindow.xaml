@@ -1,0 +1,46 @@
+<Window x:Class="WpfExamGrebenukov.Views.PartnerEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:WpfExamGrebenukov.Views"
+        mc:Ignorable="d"
+        Title="Редактирование" Height="500" Width="600">
+    <Grid Margin="10">
+        <TextBlock FontSize="20" Margin="0 10 0 0" 
+                   HorizontalAlignment="Center" Text="Изменение партнера"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel Margin="15 15 15 0">
+                <TextBlock Margin="0 15 0 0" Text="Наименование"/>
+                <TextBox x:Name="titleTextBox" Text="{Binding Title}"/>
+            
+                <TextBlock Margin="0 15 0 0" Text="Тип партнера"/>
+                <ComboBox x:Name="PartnersTypeComboBox" DisplayMemberPath="Title"
+                          SelectedValuePath="PartnerTypeId"
+                          SelectedValue="{Binding PartnerTypes.PartnerTypeId}"/>
+            
+                <TextBlock Margin="0 15 0 0" Text="Рейтинг"/>
+                <TextBox x:Name="ratingTextBox" Text="{Binding Rating}"/>
+            
+                <TextBlock Margin="0 15 0 0" Text="ИНН"/>
+                <TextBox x:Name="innTextBox" Text="{Binding Inn}"/>
+            
+                <TextBlock Margin="0 15 0 0" Text="Address"/>
+                <TextBox x:Name="addressTextBox" Text="{Binding AddressPartner}"/>
+            
+                <TextBlock Margin="0 15 0 0" Text="ФИО директора"/>
+                <TextBox x:Name="directorTextBox" Text="{Binding Director}"/>
+            
+                <TextBlock Margin="0 15 0 0" Text="Наименование"/>
+                <TextBox x:Name="phoneTextBox" Text="{Binding PhonePartner}"/>
+            
+                <TextBlock Margin="0 15 0 0" Text="Наименование"/>
+                <TextBox x:Name="emailTextBox" Text="{Binding EmailPartner}"/>
+            
+                <Button Content="Изменить" Click="EditButton_Click"></Button>
+            
+            </StackPanel>
+        </ScrollViewer>
+        
+    </Grid>
+</Window>

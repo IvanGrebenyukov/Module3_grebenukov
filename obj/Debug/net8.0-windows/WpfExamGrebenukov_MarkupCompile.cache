@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 E:\Lessons\WpfExamGrebenukov_Project\WpfExamGrebenukov\App.xaml
-2564640385
+3-581842260
 
-14183603039
+142054107603
 23029561679
-Views\AddEditPartnerWindow.xaml;Views\MainWindow.xaml;
+Views\MainWindow.xaml;Views\PartnerAddWindow.xaml;Views\PartnerEditWindow.xaml;
 
-True
+False
 

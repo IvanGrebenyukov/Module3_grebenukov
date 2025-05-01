@@ -11,10 +11,10 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using Microsoft.EntityFrameworkCore;
 using WpfExamGrebenukov.Data;
+using WpfExamGrebenukov.Dtos;
 using WpfExamGrebenukov.Models;
-using WpfExamGrebenukov.Services;
 using WpfExamGrebenukov.Views;
 
 namespace WpfExamGrebenukov
@@ -22,109 +22,77 @@ namespace WpfExamGrebenukov
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window, INotifyPropertyChanged
+    public partial class MainWindow : Window
     {
-        private readonly PartnerService _partnerService;
-        private readonly AppDbContext _context = new AppDbContext();
+        private readonly AppDbContext _context;
+        public ObservableCollection<PartnerWithDiscountDto> Partners { get; set; }
         
-         private ObservableCollection<Partner> _partners;
-        
-            public ObservableCollection<Partner> Partners
-            {
-                get => _partners;
-                set
-                {
-                    _partners = value;
-                    OnPropertyChanged();
-                }
-            }
-        
-        public ICommand AddPartnerCommand { get; }
-        public ICommand EditPartnerCommand { get; }
-
         public MainWindow()
         {
             InitializeComponent();
+            _context = new AppDbContext();
+            Partners = new ObservableCollection<PartnerWithDiscountDto>();
             DataContext = this;
 
-            var context = new AppDbContext();
-            _partnerService = new PartnerService(_context);
-        
-            AddPartnerCommand = new RelayCommand(_ => ShowAddEditPartnerWindow());
-            EditPartnerCommand = new RelayCommand(ExecuteEditCommand);
-        
             LoadPartners();
-        }
-        
-        private void Window_Loaded(object sender, RoutedEventArgs e)
-        {
-            CommandManager.InvalidateRequerySuggested();
         }
 
         private void LoadPartners()
         {
-            try
+            var partners = _context.Partners
+                .Include(p => p.PartnerTypes)
+                .Include(p => p.PartnerProducts)
+                .ToList();
+
+            foreach (var partner in partners)
             {
-                var partners = _partnerService.GetPartnersWithDiscount();
-                PartnersItemsControl.ItemsSource = partners;
-            }
-            catch (Exception ex)
-            {
-                ShowErrorMessage("Ошибка загрузки данных", ex.Message);
+                int totalsales = partner.PartnerProducts.Sum(pp => pp.Count);
+                int discount = CalculateDiscount(totalsales);
+                
+                Partners.Add(new PartnerWithDiscountDto(partner)
+                {
+                        TotalSales = totalsales,
+                        Discount = discount
+                });
             }
         }
 
-        private void ShowAddEditPartnerWindow(object parameter = null)
+        private int CalculateDiscount(int totalsales)
         {
-            try
-            {
-                Partner originalPartner = null;
-                if (parameter is Partner selectedPartner)
-                {
-                    // Получаем свежую копию из базы
-                    originalPartner = _partnerService.GetPartnerById(selectedPartner.PartnerId);
-                }
+            if (totalsales >= 300000) return 15;
+            if(totalsales >= 50000) return 10;
+            if(totalsales >= 10000) return 5;
+            return 0;
+        }
 
-                var window = new AddEditPartnerWindow(originalPartner, _partnerService);
+        protected override void OnClosing(System.ComponentModel.CancelEventArgs e)
+        {
+            _context.Dispose();
+            base.OnClosing(e);
+        }
+
+        private void AddButton_Click(object sender, RoutedEventArgs e)
+        {
+            var partnerAddWindow = new PartnerAddWindow();
+            if (partnerAddWindow.ShowDialog() == true)
+            {
+                Partners.Clear();
+                LoadPartners();
+            }
+        }
         
-                if (window.ShowDialog() == true)
+
+        private void EditButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender is Button button && button.DataContext is PartnerWithDiscountDto selectedPartner)
+            {
+                var partnerEditWindow = new PartnerEditWindow(selectedPartner);
+                if(partnerEditWindow.ShowDialog() == true)
                 {
+                    Partners.Clear();
                     LoadPartners();
                 }
             }
-            catch (Exception ex)
-            {
-                ShowErrorMessage("Ошибка", ex.Message);
-            }
-        }
-
-        private void ShowErrorMessage(string title, string message)
-        {
-            var dialog = new MaterialDesignThemes.Wpf.DialogHost {
-                DialogContent = new StackPanel {
-                    Children = {
-                        new TextBlock { Text = title, FontWeight = FontWeights.Bold },
-                        new TextBlock { Text = message, Margin = new Thickness(0,10,0,0) }
-                    }
-                }
-            };
-            
-            MaterialDesignThemes.Wpf.DialogHost.Show(dialog, "RootDialog");
-        }
-        
-        private void ExecuteEditCommand(object parameter)
-        {
-            if (parameter is Partner partner)
-            {
-                ShowAddEditPartnerWindow(partner);
-            }
-        }
-        
-        public event PropertyChangedEventHandler? PropertyChanged;
-    
-        protected virtual void OnPropertyChanged([CallerMemberName] string? propertyName = null)
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
 }
